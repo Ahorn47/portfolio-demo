@@ -1,0 +1,61 @@
+:root {
+    --bg-body: #151515;
+    --bg-contact: #242424;
+    --accent: #4ee1a0;
+    --text1:#ffffff;
+    --text2:#d9d9d9;
+    --invalid:#0000FF;
+}
+
+*{
+    margin:0%;
+    padding: 0px;
+    font-family: 'Poppins', 'sans-serif';
+    box-sizing:border-box;
+
+}
+
+
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+
+body {
+    background: #080808;
+    color: #ffffff;
+}
+ # header {
+    width: 100px;
+    height: 100vh;
+    background-image: url(435.jpg);
+    background-size:cover;
+    background-position: center;
+
+
+
+}
+div 
+    padding: 10px 10%;
+}
+
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+
+}
+    
+
+
+
+
+
+
+     
+}
