@@ -23,3 +23,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 I WAS able to complete portfolio too late but i got it done.
 
 https://ahorn47.github.io/portfolio-demo/
+![image](https://github.com/Ahorn47/portfolio-demo/assets/131202726/b8182797-2495-4d6b-8a5d-28b86553835b)
